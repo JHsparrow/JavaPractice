@@ -1,0 +1,12 @@
+package Test001;
+
+public enum EX001 {
+	MONDAY,
+	TUESDAY,
+	WEDNESDAY,
+	THURSDAY,
+	FRIDAY,
+	SATURDAY,
+	SUNDAY
+	
+}
